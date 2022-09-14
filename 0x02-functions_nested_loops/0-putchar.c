@@ -1,15 +1,13 @@
-#include <main.h>
+#include<stdio.h>
 /**
- * main-the starting point of code
- *
- * Return: 0 for success
- */
-int main()
+*	main - to print putchar
+*	Description: print the word of given
+*	Return: 0 always
+*
+*
+*/
+int main(void)
 {
-	_putchar("_putchar");
-
-	_putchar('\n');
-
+	printf("_putchar");
 	return (0);
-
 }
