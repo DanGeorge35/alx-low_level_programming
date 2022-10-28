@@ -1,2 +1,1 @@
-## My C Programing
-#### Alx Project
+argc, argv
